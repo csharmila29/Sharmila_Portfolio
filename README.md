@@ -30,11 +30,7 @@ In our project we will segment the dataset to find the patterns in the mall cust
 * Does annual income affect the spending score
 * How many segments and what type of segments can be used for marketing
 
-[](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/elbow_method.png)
-
-[](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/K_6_clusters.png)
-
-[](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/3D_plot.png)
+![](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/K_6_clusters.png)
 
 ### Data Source  - Mall Customer CSV
 ### Programming Language - Python
