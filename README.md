@@ -19,10 +19,10 @@ This project tried to explore the data to answer following questions
 ![](/images/sentiment_analysis.png)
 
 
-![](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/uni_empRate.png)
+![](/images/uni_empRate.png)
 
 
-![](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/bar_plot_uni_emp_rate.png)
+![](/images/bar_plot_uni_emp_rate.png)
 
 
 ### Programing Language - R language
@@ -41,7 +41,7 @@ In our project we will segment the dataset to find the patterns in the mall cust
 * Does annual income affect the spending score
 * How many segments and what type of segments can be used for marketing
 
-![](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/K_6_clusters.png)
+![](/images/K_6_clusters.png)
 
 ### Data Source  - Mall Customer CSV
 ### Programming Language - Python
@@ -56,9 +56,9 @@ In our project we will segment the dataset to find the patterns in the mall cust
 * It is also integrated with web to develop a web chatbot. 
 * All the Intents, entities and dialog are setup in IBM Watson Assistant.
 
-![](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/Info_overview.jpg)
+![](/images/Info_overview.jpg)
 
-![](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/web_chat.png)
+![](/images/web_chat.png)
 
-![](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/architecture.png)
+![](/images/architecture.png)
 
