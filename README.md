@@ -1,7 +1,7 @@
 # Sharmila_Portfolio
 Data Science and AI projects
 
-## Project 1 : Comparison study of Singapore Universities, Degrees, Full Time Permanent Employment Rate and Median Basic Monthly Salary
+## [Project 1 : Comparison study of Singapore Universities, Degrees, Full Time Permanent Employment Rate and Median Basic Monthly Salary](https://github.com/csharmila29/ProjR)
 
 This project tried to explore the data to answer following questions
 * Is there any difference in the full time employment rate across the different Singapore Universities for year 2017 and 2018. Should students select the university they would  want to attend based on employment rate? Which university has more employment rate across 2017 and 2018?
@@ -14,8 +14,7 @@ This project tried to explore the data to answer following questions
 
 * Is there any difference in the median basic salary across the different Singapore Universities, for the year 2017 and 2018. Should students select University based on median basic salary? Which degree offers more basic median salary across 2017-2018?
 
-## Project 2 : Mall Customer Analysis
-
+## [Project 2 : Mall Customer Analysis - K-Means Clustering]()
 Customer Segmentation is one of the areas where k-means algorithm can be used. It is used to divide a customer base into groups of individuals who are similar in specific ways such as age, gender, earnings and spending habits. The following project takes advantage of the Mall Customer Data to demonstrate the ability of K-Means clustering algorithm to identify customer's segments. This is an Unsupervised Machine Learning Technique
 
 In our project we will segment the dataset to find the patterns in the mall customers asking the following questions
@@ -30,7 +29,7 @@ In our project we will segment the dataset to find the patterns in the mall cust
 ### Visualization - Python Libraries used : Matplotlib, Seaborn
 ### Model - K Means Clustering
 
-## Project 3 : Vaccination Assistant (Web chatbot / Telegram voice assistant)
+## [Project 3 : Vaccination Assistant (Web chatbot / Telegram voice assistant)]()
 
 * This AI project is a vaccination assistant which is a chatbot using IBM Watson Assistant. It helps to answer queries of people regarding Singapore vaccination process and various other information.
 * It is integrated with Telegram to set up a voice assistant. This assistant uses NOde-Red App and three other IBM services (Text to speech, Speech to Text and Watson assistant V2). 
