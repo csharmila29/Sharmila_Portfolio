@@ -16,7 +16,7 @@ This project tried to explore the data to answer following questions
 * Is there any difference in the median basic salary across the different Singapore Universities, for the year 2017 and 2018. Should students select University based on median basic salary? Which degree offers more basic median salary across 2017-2018?
 
 
-![](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/sentiment_analysis.png)
+![](/images/sentiment_analysis.png)
 
 
 ![](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/uni_empRate.png)
