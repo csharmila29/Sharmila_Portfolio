@@ -47,6 +47,7 @@ In our project we will segment the dataset to find the patterns in the mall cust
 
 ![](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/Info_overview.jpg)
 
+![](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/web_chat.png)
 
 ![](https://github.com/csharmila29/Sharmila_Portfolio/blob/main/images/architecture.png)
 
