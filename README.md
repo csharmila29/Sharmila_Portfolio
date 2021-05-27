@@ -30,4 +30,9 @@ In our project we will segment the dataset to find the patterns in the mall cust
 ### Visualization - Python Libraries used : Matplotlib, Seaborn
 ### Model - K Means Clustering
 
-## Project 3 : Implementation of Voice Chatbot using Node-Red and Watson assistant
+## Project 3 : Vaccination Assistant (Web chatbot / Telegram voice assistant)
+
+* This AI project is a vaccination assistant which is a chatbot using IBM Watson Assistant. It helps to answer queries of people regarding Singapore vaccination process and various other information.
+* It is integrated with Telegram to set up a voice assistant. This assistant uses NOde-Red App and three other IBM services (Text to speech, Speech to Text and Watson assistant V2). 
+* It is also integrated with web to develop a web chatbot. 
+* All the Intents, entities and dialog are setup in IBM Watson Assistant.
