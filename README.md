@@ -14,8 +14,20 @@ This project tried to explore the data to answer following questions
 
 * Is there any difference in the median basic salary across the different Singapore Universities, for the year 2017 and 2018. Should students select University based on median basic salary? Which degree offers more basic median salary across 2017-2018?
 
-## Project 2 : Customer Segmentation
+## Project 2 : Mall Customer Analysis
 
+Customer Segmentation is one of the areas where k-means algorithm can be used. It is used to divide a customer base into groups of individuals who are similar in specific ways such as age, gender, earnings and spending habits. The following project takes advantage of the Mall Customer Data to demonstrate the ability of K-Means clustering algorithm to identify customer's segments. This is an Unsupervised Machine Learning Technique
 
+In our project we will segment the dataset to find the patterns in the mall customers asking the following questions
+
+* How is Gender and Age of customer related to spending score
+* Does annual income affect the spending score
+* How many segments and what type of segments can be used for marketing
+
+### Data Source  - Mall Customer CSV
+### Programming Language - Python
+### Python Libraries - Numpy, Pandas, SciKitLearn
+### Visualization - Python Libraries used : Matplotlib, Seaborn
+### Model - K Means Clustering
 
 ## Project 3 : Implementation of Voice Chatbot using Node-Red and Watson assistant
